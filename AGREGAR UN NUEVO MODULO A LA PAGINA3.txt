@@ -1,0 +1,15 @@
+PARA PODER AGREGAR UN NUEVO MODULO PARA INGRESO DE DATOS AL SISTEMA MODIFICAR 
+
+1- model -> NotasData.php
+
+2. dentro de la carpeta view  
+-> notas-view.php
+-> newnotas-view.php
+-> addnotas-view.php
+-> editnotas-view.php
+-> updatenotas-view.php
+-> delnotas-view.php
+
+3. model -> OperationData.php
+
+4. Creamos nuestra base de datos 
